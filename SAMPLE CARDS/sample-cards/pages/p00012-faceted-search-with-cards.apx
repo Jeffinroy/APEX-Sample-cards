@@ -19,7 +19,7 @@ page 12 (
         name: About this page
         type: staticContent
         source {
-            htmlCode: <p>You have a Card region with a Faceted Search. This provides an easy-to-use interface for narrowing down the results and quickly locating specific data.</p>
+            htmlCode: <p>You have a APEX Card region with a Faceted Search. This provides an easy-to-use interface for narrowing down the results and quickly locating specific data.</p>
         }
         layout {
             sequence: 10
